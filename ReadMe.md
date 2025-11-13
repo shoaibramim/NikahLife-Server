@@ -163,5 +163,3 @@ For support and queries, please use the Contact Us endpoint or reach out to the 
 This project is licensed under the MIT License.
 
 ---
-
-Do you want me to also **add sample API response examples** (like JSON outputs for register/login/profile) i
